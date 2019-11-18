@@ -1,8 +1,8 @@
-# strapi-provider-upload-sftp
+# strapi-provider-upload-akamai-netstorage
 
 Akamai NetStorage provider for Strapi CMS file upload.
 
-## Instalation
+## Install
 
 ```
 npm i strapi-provider-upload-akamai-netstorage
