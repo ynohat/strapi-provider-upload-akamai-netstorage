@@ -1,6 +1,6 @@
 # strapi-provider-upload-sftp
 
-SFTP provider for Akamai NetStorage CMS file upload.
+Akamai NetStorage provider for Strapi CMS file upload.
 
 ## Instalation
 
