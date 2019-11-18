@@ -1,0 +1,36 @@
+{
+  "name": "strapi-provider-upload-akamai-netstorage",
+  "version": "1.0.0",
+  "description": "Akamai NetStorage provider for Strapi CMS file upload.",
+  "strapi": {
+    "isProvider": true
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynohat/strapi-provider-upload-akamai-netstorage.git"
+  },
+  "keywords": [
+    "akamai",
+    "strapi",
+    "provider",
+    "file upload",
+    "netstorage"
+  ],
+  "author": {
+    "email": "anthony@hogg.fr",
+    "name": "Anthony Hogg",
+    "url": "https://github.com/ynohat"
+  },
+  "bugs": {
+    "url": "https://github.com/mmattosr/strapi-provider-upload-akamai-netstorage/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mmattosr/strapi-provider-upload-akamai-netstorage#readme",
+  "dependencies": {
+    "netstorageapi": "^1.1.5"
+  }
+}
